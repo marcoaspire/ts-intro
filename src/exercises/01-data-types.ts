@@ -2,7 +2,7 @@
 /*
     ===== TypeScript code =====
 
-    execute: npm start
+    execute: npm start || tsc name.ts -> node name.js
 */
 
 let nameString: string= "Marco ";
